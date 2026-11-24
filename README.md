@@ -32,7 +32,7 @@ com.example.coroutinedemo
 
 ## Screenshot
 
-![Hasil Load](screenshoot/skrinsut.png)
+![Hasil Load](skrinsut.png)
 
 ## Jawaban Latihan (Bagian 9)
 
